@@ -2,7 +2,6 @@ import Image from "next/image";
 import Button from "./Button";
 import Pretitle from "./Pretitle";
 import Slider from "./Slider";
-import SliderBtns from "./SliderBtns";
 
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";

@@ -1,5 +1,5 @@
 import Pretitle from "./Pretitle";
-import { delay, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import { fadeIn } from "@/variants";
 import FaqItem from "./FaqItem";
 

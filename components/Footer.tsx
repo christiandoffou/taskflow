@@ -9,7 +9,6 @@ import {
 } from "react-icons/ri";
 
 import Socials from "./Socials";
-import Button from "./Button";
 
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";

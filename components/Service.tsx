@@ -10,19 +10,9 @@ import {
   PiWrenchFill,
   PiUserGearFill,
 } from "react-icons/pi";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "./ui/card";
-import { Input } from "./ui/input";
 import Pretitle from "./Pretitle";
-import { Item } from "@radix-ui/react-select";
 
-import { delay, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 
 const serviceData = [
