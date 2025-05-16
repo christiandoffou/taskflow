@@ -22,7 +22,7 @@ const About = () => {
               {/* Title */}
               <Pretitle text="Apropos de Nous" />
               <h2 className="h2 mb-6">
-                Concentré sur l'excellence dans chaque projet
+                Concentré sur l&apos;excellence dans chaque projet
               </h2>
               <p className="mb-11">
                 Nous sommes une équipe de professionnels passionnés par la
