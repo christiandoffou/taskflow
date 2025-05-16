@@ -26,7 +26,7 @@ const Testimonal = () => {
             <p className="mb-10 max-w-[420px]">
               Des maisons aux espaces commerciaux, nos clients partagent leurs
               expériences de travail avec nous. Découvrez comment nous les avons
-              aidés à réaliser leurs rêves grâce à un savoir-faire d'expert.
+              aidés à réaliser leurs rêves grâce à un savoir-faire d&apos;expert.
             </p>
             <Button text="Lire les témoignages" />
           </motion.div>
