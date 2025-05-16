@@ -48,7 +48,7 @@ const Footer = () => {
             <ul className="flex flex-col gap-6">
               <li className="flex items-center gap-4">
                 <RiMapPin2Fill className="text-accent text-xl" />
-                <p>Valon, rue du jardin, Abidjan Cote d'Ivoire</p>
+                <p>Valon, rue du jardin, Abidjan Cote d&apos;Ivoire</p>
               </li>
               <li className="flex items-center gap-4">
                 <RiPhoneFill className="text-accent text-xl" />
