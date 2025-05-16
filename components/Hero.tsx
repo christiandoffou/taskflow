@@ -34,7 +34,7 @@ const Hero = () => {
             className="mb-9"
           >
             Du concept à la réalisation, nous veillons à ce que chaque détail
-            soit optimisé pour la résistance et l'endurance, créant ainsi une
+            soit optimisé pour la résistance et l&apos;endurance, créant ainsi une
             solution qui inspire confiance et reste ferme pendant des années.
           </motion.p>
           {/* Button component can be used here if needed */}
