@@ -62,7 +62,7 @@ const Contact = () => {
                       Venez nous dire bonjour à notre bureau
                     </p>
                     <p className="font-semibold text-primary">
-                      Valon Street, Abidjan, Côte d'Ivoire
+                      Valon Street, Abidjan, Côte d&apos;Ivoire
                     </p>
                   </div>
                 </div>
